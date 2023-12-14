@@ -40,3 +40,6 @@ I’m Josep Olivé, a certified Junior Java Developer 🚀 with a solid foundati
 - 🌐 Portfolio: Coming soon! 🚀
 
 ### 🌟 **Let’s collaborate and create amazing things! Feel free to check out my projects and connect with me.** 🌟
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JosepOli)](https://github.com/ryo-ma/github-profile-trophy)
