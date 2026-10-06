@@ -20,7 +20,6 @@ Before software I spent 10+ years in aviation operations, from ramp and dispatch
 #### Projects
 
 - **[FacilityOccupation](https://github.com/JosepOli/FacilityOccupation)**: tracks how busy my town's sports facilities are over time, from public data. Flask, JavaScript, Docker and GitHub Actions.
-- **[ITA Challenges Backend](https://github.com/IT-Academy-BCN/ita-challenges-backend)**: team project at IT Academy using Scrum. Challenges service built with Spring Boot, MongoDB and Redis.
 - **Family finance app** *(private, runs on my home server)*: accounts, investments and savings goals in one place, with bank statement import and a read-only AI assistant. React, TypeScript, Python, Playwright and CI.
 - **Homelab**: two-node Proxmox cluster running around twenty self-hosted services, including Home Assistant and local AI person detection, on a segmented UniFi network.
 
