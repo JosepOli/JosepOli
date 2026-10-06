@@ -1,45 +1,31 @@
-### Hi there 👋
+### Hi, I'm Josep 👋
 
-I’m Josep Olivé, a certified Junior Java Developer 🚀 with a solid foundation in Java, passionate about AI 🤖, blockchain technology ⛓, and cryptocurrencies 💰. I recently completed an intensive backend development bootcamp and earned my certification 🎓.
+Junior developer based in Barcelona. I trained as a Java / Spring Boot backend developer and I'm now studying a Higher Diploma in Web Application Development (DAW) at the Institut Obert de Catalunya, moving towards frontend with **React and TypeScript**.
 
-- 🔭 I’m currently working on:
-  - [ITA Challenges Backend](https://github.com/IT-Academy-BCN/ita-challenges-backend)
-  - [Poker](https://github.com/JosepOli/Poker)
+Before software I spent 10+ years in aviation operations, from ramp and dispatch to coordinating a private aviation terminal. That's where I learned to make decisions against the clock, coordinate many teams at once and look after demanding customers.
 
-- 🌱 I’m currently improving my proficiency in Spring Boot, Microservices, and will afterwards delve into Domain-Driven Design (DDD). I’m also planning to resume my degree in Telematics Engineering next year, which I paused in 2011.
+#### How I work
 
-- 🛠 **Tech Stack:**
-   - Java 17 ☕
-   - SQL & NoSQL Databases (MySQL, MongoDB) 🗃
-   - Spring Framework 🍃
-   - Git / Github 🌐
-   - Microservices 🛠
-   - Design Patterns 🧩
-   - Tools: Postman 📬, IntelliJ, Eclipse 🌑
+- I break a need into small tasks with clear acceptance criteria.
+- I use AI coding agents (Claude Code, Codex) to move faster, and I read, test and review what they produce before anything gets merged.
+- Branches, pull requests, tests and CI are my safety net. Nothing ships without a backup and a way back.
 
-- 🎓 **Education:**
-   - Backend Java Development Bootcamp, IT Academy (Certified, Jun 2022 - Sep 2023)
-   - Degree in Telematics Engineering, UPC (Resuming next year, Sep 2009 - Jun 2011)
+#### Tech
 
-- 💬 Ask me about Java, Spring Framework, backend development, motorsports 🏎, or anything car-related 🚗!
+**Frontend:** React · TypeScript · HTML · CSS · JavaScript · Playwright
+**Backend:** Java · Spring Boot · REST APIs · JPA · JWT · JUnit · Mockito · Python · Flask
+**Data:** MySQL · MongoDB · Redis
+**Tools:** Git · GitHub Actions · Docker · Linux · Proxmox · Postman · IntelliJ
 
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-Contact-brightgreen?style=flat-square&logo=gmail)](mailto:josepolive89@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/josepoldi/)
+#### Projects
 
-- 🌐 Languages: English (Professional), Spanish (Native), Catalan (Native), Italian (Basic), Polish (Basic), German (Basic)
+- **[FacilityOccupation](https://github.com/JosepOli/FacilityOccupation)**: tracks how busy my town's sports facilities are over time, from public data. Flask, JavaScript, Docker and GitHub Actions.
+- **[ITA Challenges Backend](https://github.com/IT-Academy-BCN/ita-challenges-backend)**: team project at IT Academy using Scrum. Challenges service built with Spring Boot, MongoDB and Redis.
+- **Family finance app** *(private, runs on my home server)*: accounts, investments and savings goals in one place, with bank statement import and a read-only AI assistant. React, TypeScript, Python, Playwright and CI.
+- **Homelab**: two-node Proxmox cluster running around twenty self-hosted services, including Home Assistant and local AI person detection, on a segmented UniFi network.
 
-- ⚡ Fun fact: I’m a petrolhead and a big fan of motorsports. I also have years of experience in the aviation industry, where I honed my problem-solving, communication, and time management skills.
+#### Languages
 
-- 🎮 Hobbies:
-   - Videogames 🎮
-   - Exploring new technology 💻
-   - Reading novels 📚
-   - Weightlifting 🏋️
+Spanish and Catalan (native) · English (C1, Cambridge CAE) · basic Italian, German and Polish
 
-- 🔍 I’m open to new opportunities and available for immediate incorporation. Let’s connect and build something great together! 🤝
-
-- 🌐 Portfolio: Coming soon! 🚀
-
-### 🌟 **Let’s collaborate and create amazing things! Feel free to check out my projects and connect with me.** 🌟
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JosepOli)](https://github.com/ryo-ma/github-profile-trophy)
+📫 [josepolive89@gmail.com](mailto:josepolive89@gmail.com) · [LinkedIn](https://www.linkedin.com/in/josepoldi/)
