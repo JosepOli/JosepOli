@@ -1,6 +1,6 @@
 ### Hi, I'm Josep 👋
 
-Junior developer based in Barcelona. I trained as a Java / Spring Boot backend developer and I'm now studying a Higher Diploma in Web Application Development (DAW) at the Institut Obert de Catalunya, moving towards frontend with **React and TypeScript**.
+Junior developer based in Barcelona. I trained as a Java / Spring Boot backend developer and I'm now studying a Diploma in Web Application Development (DAW) at the Institut Obert de Catalunya, moving towards frontend with **React and TypeScript**.
 
 Before software I spent 10+ years in aviation operations, from ramp and dispatch to coordinating a private aviation terminal. That's where I learned to make decisions against the clock, coordinate many teams at once and look after demanding customers.
 
